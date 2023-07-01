@@ -19,3 +19,6 @@
 4. создает файл gitinstruction
 5. заполняет команды
 6.pull requests
+
+Команды git
+- git branch
